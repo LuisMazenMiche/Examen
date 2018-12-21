@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class prueba {
 	
-    private static final String FILE_NAME = "//Users/luismanuelsanchezpaez/Documents/MyFirstExcel.xlsx";
+    private static final String FILE_NAME = "/Users/luismanuelsanchezpaez/Documents/Selenium/MyTestNgWorkspace/Examen/DocumentsMyFirstExcel.xlsx \n";
 
 
 	public static void main(String[] args) {

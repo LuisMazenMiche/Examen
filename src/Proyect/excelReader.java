@@ -10,8 +10,7 @@ import java.io.IOException;
 import java.util.Iterator;
 
 public class excelReader {
-    private static final String FILE_NAME = "/Users/luismanuelsanchezpaez/DocumentsMyFirstExcel.xlsx";
-
+    private static final String FILE_NAME = "/Users/luismanuelsanchezpaez/Documents/Selenium/MyTestNgWorkspace/Examen/DocumentsMyFirstExcel.xlsx \n";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
