@@ -10,7 +10,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 
-public class excel {
+public class prueba {
 	
 	private static final String Examen_test = "/Users/melyjram/Desktop/examen.xlsx";
 	
